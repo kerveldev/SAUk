@@ -5,8 +5,8 @@
  * ******************************************/
 define('IREK',[
             'serv' => 'localhost',
-            'us'   => 'sigpol_irek',
-            'pass' => '123ilich@irek'
+            'us'   => 'root',
+            'pass' => ''
     ]);
 
 // define('ROOT',$_SERVER['DOCUMENT_ROOT'].'/nauta/');
